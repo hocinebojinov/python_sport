@@ -1,7 +1,7 @@
 # python_fitness_
 
 ## Group project Members
- - Hamid Ahcen
+ - Hamid Ahcene
  - Khalid Kriou
  - Houcine Benferhat
  - Nacereddine Mazouz
